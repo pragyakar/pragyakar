@@ -7,6 +7,8 @@ I am a **Software Engineer** and a **UX Researcher** with 3+ years of experience
 - 💼 View my full work history on [LinkedIn](https://www.linkedin.com/in/pragyakar/)
 - 📃 You can find my resume [here](https://pragyakar.github.io/profile/PragyakarJoshiCV.pdf)
 
+<br />
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)&nbsp;
