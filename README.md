@@ -7,10 +7,10 @@ I am a **Software Engineer** and a **UX Researcher** with 3+ years of experience
 - 💼 View my full work history on [LinkedIn](https://www.linkedin.com/in/pragyakar/)
 - 📃 You can find my resume [here](https://pragyakar.github.io/profile/PragyakarJoshiCV.pdf)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-121212?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-121212?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-121212?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-121212?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-121212?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-555555?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-555555?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pragyakar)
