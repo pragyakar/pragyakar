@@ -2,11 +2,11 @@
 
 I am a **Software Engineer** and a **UX Researcher** with 3+ years of experience from Kathmandu. 
 
-- 🌿 Building scalable and future proof applications using several technologies, predominantly Javascript
-- 🤖 HCI/UX enthusiast and researcher
-- 💻 Currently, working as Software Engineer at [Leapfrog Technology](https://www.lftechnology.com/)
-- 💼 View my full work history on [LinkedIn](https://www.linkedin.com/in/pragyakar/)
-- 📃 You can find my resume [here](https://pragyakar.github.io/profile/PragyakarJoshiCV.pdf)
+🌿  &nbsp; Building scalable and future proof applications using several technologies, predominantly Javascript <br />
+🤖  &nbsp; HCI/UX enthusiast and researcher <br />
+💻  &nbsp; Currently, working as Software Engineer at [Leapfrog Technology](https://www.lftechnology.com/) <br />
+💼  &nbsp; View my full work history on [LinkedIn](https://www.linkedin.com/in/pragyakar/) <br />
+📃  &nbsp; You can find my resume [here](https://pragyakar.github.io/profile/PragyakarJoshiCV.pdf)
 
 <br />
 
