@@ -1,4 +1,4 @@
-### Hi there, I am Pragyakar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+### Hi there, I am Pragyakar. 
 
 I am a **Software Engineer** and a **UX Researcher** with 3+ years of experience from Kathmandu. 
 
