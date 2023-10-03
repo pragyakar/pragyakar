@@ -16,4 +16,4 @@ I am a **Software Engineer** and a **UX Researcher** with 5+ years of experience
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-555555?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-555555?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pragyakar)
+
