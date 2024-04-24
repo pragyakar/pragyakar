@@ -1,6 +1,6 @@
 ### Hi there, I am Pragyakar. 
 
-I am a **Software Engineer** and a **UX Researcher** with 5+ years of experience from Kathmandu. 
+I am a **Software Engineer** and a **UX Enthusiast** with 5+ years of experience from Kathmandu. 
 
 🌿  &nbsp; Building scalable and future proof applications using several technologies, predominantly Javascript <br />
 🤖  &nbsp; HCI/UX enthusiast and researcher <br />
